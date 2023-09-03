@@ -1,3 +1,3 @@
-theme: jekyll-theme-minimal
-title: CS_ePortfolio
-description: Capstone Final Project
+# CS-499 Capstone Final Project
+## Project: Austin Animal Center 
+### Author: Isabel Rodarte
