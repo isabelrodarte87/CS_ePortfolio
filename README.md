@@ -12,3 +12,7 @@ Welcome to my ePortfolio. My name is Isabel Rodarte; I am pursuing a bachelor's 
 
 # Professional Self-Assesment
 
+During my computer science journey, I gained valuable skills and learned more in-depth computer science concepts. Some of which are essential and helpful in setting professional goals. 
+
+Course CS-260, Data Structures and Algorithms introduces the importance of data structures and algorithms as they are essential for a program to function. I gained knowledge of the importance of data structures, and without a data structure, it would be challenging to write code, maintain the code, and debug. Data structures reduce redundancy in coding, which is a crucial tool within software development. The value of this course ensures my ability to sort, manage, and store information along with efficient techniques to accomplish any operation on data.
+
